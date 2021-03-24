@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "todo",
+    "name": "ToDo List",
     "slug": "todo",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,8 +22,9 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
-      }
+        "backgroundColor": "#22c1c3"
+      },
+      "package": "com.todo.list"
     },
     "web": {
       "favicon": "./assets/favicon.png"
